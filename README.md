@@ -28,7 +28,7 @@ npm test
 ```
 
 ## 备注
-<img-lazy :imgList="imgList" :itemHeight="itemHeight"></img-lazy>
+imgLazy.vue组件接收参数
 - imgList:图片数组
 - itemHeight：每行图片的高
 - 需要给组件一个高度
